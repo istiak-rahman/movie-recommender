@@ -1,8 +1,3 @@
-'''Movie Recommendation Generator using ML: Automated
-Utilize Pandas and scikit-learn
-Process dataset of movie info and feed info into system that can recommend based on tastes and choices
-Content-based filtering'''
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
