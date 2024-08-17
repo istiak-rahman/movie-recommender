@@ -57,9 +57,3 @@ if __name__ == '__main__':
     movie_choice = str(input('What movie are you thinking of? Enter in the form of MOVIE (YEAR) '))
     recommend = recommendations(path, movie_data, movie_choice)
     display(recommend)
-
-
-
-
-
-
